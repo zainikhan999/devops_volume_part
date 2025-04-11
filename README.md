@@ -10,7 +10,7 @@ This project demonstrates the use of Docker volumes to share data between multip
 **Command:**
 ```bash
 docker volume create my_volume
-
+```
 ## Step 2: Run nginx container and mount the volume
 **Command:**
 ```bash
